@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Virrtuoso
 - 👀 I’m interested in developing websites for web3 and Crypto Blockchain in general
-- 🌱 I’m currently learning CryptoBlockchain :v
+- 🌱 Gone back to GameDev cos that's what i really wanted :v
 - 💞️ I’m looking to collaborate on ...
-- 📫 Currently a lvl 1 newb :'))
+- 📫 Currently a lvl 2 newb :'))
 
 <!---
 Virrtuoso/Virrtuoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
